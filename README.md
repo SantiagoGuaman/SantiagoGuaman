@@ -50,3 +50,11 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
 
+<h3 align="center">Some of my Stats 📶:</h3>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=santiagoguaman&show_icons=true&locale=en&layout=compact" alt="santiagoguaman" /></p>
+<br>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santiagoguaman&show_icons=true&locale=en" alt="santiagoguaman" /></p>
+<br>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santiagoguaman&" alt="santiagoguaman" /></p>
+
+
